@@ -12,6 +12,7 @@ Welcome to FJY's BLOG's documentation!
    
    
    how_to_be_a_rich_man
+   second
 
 
 
